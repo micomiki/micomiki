@@ -1,16 +1,14 @@
-### Hi there 👋
+Mikias Eyob
+Welcome to my GitHub profile! I'm Mikias Eyob, a passionate software engineer with a focus on driving innovation and solving complex problems. Here you'll find a collection of my projects, ranging from web development to cloud computing.
 
-<!--
-**micomiki/micomiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm currently working as a Software Engineer at Huawei Technologies, where I contribute to building cutting-edge solutions and pushing the boundaries of technology. With a solid foundation in Azure Cloud and expertise in languages like C#, Java, Python, and ASP.NET.CORE, I enjoy tackling challenges and finding elegant solutions.
 
-Here are some ideas to get you started:
+Skills
+Languages: C#, Java, Python, ASP.NET.CORE
+Cloud Computing: Azure Cloud
+Web Development: HTML, CSS, JavaScript
+Get in Touch
+Feel free to reach out to me via www.linkedin.com/in/mikias-eyob-8823501aa for collaborations or discussions on anything related to software engineering, cloud computing, or technology in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and build something amazing together!
